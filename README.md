@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a beginner student working on my B.Sc. in Cybersecurity
 
 <!--
 **shellac9000/shellac9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
